@@ -1,5 +1,5 @@
 /**
-* @author Zeeshan Altaf
+* @uthor ꧁𓊈𒆜🆂🅷🅴🆁🅰🆉🆇🅳🅹𒆜𓊉꧂
 * @warn Do not edit code or edit credits
 * @Dont Change This Credits Otherwisw Your Bot Lol
 */
@@ -7,7 +7,7 @@ module.exports.config = {
 	name: "autoreact",
 	version: "1.1.1",
 	hasPermission: 0,
-	credits: "Zeeshan Altaf",
+	credits: "꧁𓊈𒆜🆂🅷🅴🆁🅰🆉🆇🅳🅹𒆜𓊉꧂",
 	description: "Dont Change This Creadit Otherwise Your Bot is Lol",
 	commandCategory: "No Prefix",
 	cooldowns: 0,
